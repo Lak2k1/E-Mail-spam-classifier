@@ -1,4 +1,13 @@
-
+beautifulsoup4==4.9.1
+blinker==1.4
+bs4==0.0.1
+certifi==2020.6.20
+chardet==3.0.4
+charset-normalizer==2.0.12
+click==7.1.2
+colorama==0.4.4
+cycler==0.11.0
+et-xmlfile==1.1.0
 Flask==1.1.2
 Flask-Cors==3.0.9
 Flask-Mail==0.9.1
@@ -11,10 +20,10 @@ joblib==1.1.0
 kiwisolver==1.4.3
 MarkupSafe==1.1.1
 matplotlib==3.5.2
-
+mysql-connector-python==8.0.29
 nltk==3.7
 numpy==1.22.4
-nltk>=3.4.5
+opencv-contrib-python==4.6.0.66
 openpyxl==3.0.10
 packaging==21.3
 panda==0.3.1
@@ -31,7 +40,7 @@ pytz==2022.1
 regex==2022.9.13
 requests==2.24.0
 scikit-learn==1.1.1
-scipy>=0.15.1
+scipy==1.8.1
 seaborn==0.11.2
 six==1.15.0
 sklearn==0.0
