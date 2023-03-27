@@ -6,5 +6,5 @@
 
 
 This is how the model works, you can try it yourself and find the notebook in the repository.
-![](https://github.com/Lak2k1/spampred/blob/main/ezgif-1-6ef02c5b87.gif)
+![](https://github.com/Lak2k1/spampred/blob/main/ezgif-1-6c3fe464d7.gif)
 
