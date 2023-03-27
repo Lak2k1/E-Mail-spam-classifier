@@ -5,6 +5,6 @@
 3. [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 
 
-
+This is how the model works, you can try it yourself and find the notebook in the repository.
 ![](https://github.com/Lak2k1/spampred/blob/main/ezgif-1-6ef02c5b87.gif)
 
